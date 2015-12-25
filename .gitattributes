@@ -1,0 +1,3 @@
+*.cs     diff=csharp
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
